@@ -8,8 +8,12 @@ define(['script', 'jquery'], function(App, $) {
       window.test.init();
     });
 
-    it('plays with the html fixture', function(){
+    it('should verify if "#ha" element is in DOM', function(){
       expect($('#ha')).toBeInDOM();
+    });
+
+    it('should verify if "#ha" element has class paragraph', function(){
+      expect($('#ha')).toHaveClass('paragraph');
     });
 
   }); 

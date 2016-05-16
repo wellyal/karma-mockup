@@ -35,6 +35,7 @@ module.exports = function(config) {
       'test-main.js'
     ],
 
+    browsers : ['Chrome'],
 
     // list of files to exclude
     exclude: [

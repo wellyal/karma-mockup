@@ -4,7 +4,6 @@ test = (function($){
 
 	function insertClass() {
 		$('#ha').addClass('paragraph');
-		console.log('hey');
 	}
 
 	function init() {
