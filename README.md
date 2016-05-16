@@ -5,7 +5,7 @@ A simple example on how to organize and configure karma to run jasmine for integ
 ## Runnung Project
 
  - First just run `npm intall` to install dev dependencies from **package.json**
- - Run `karma start to run all tests`
+ - Run `karma start` to run all your specs`
  
 ##Informations
   
