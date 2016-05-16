@@ -1,6 +1,6 @@
 # karma-mockup
 
-A simple example on how to organize and configure karma to run jasmine for integration tests (tests make directly on DOM).
+A simple example on how to organize and configure karma to run jasmine for integration tests (tests made it directly on DOM).
 
 ## Runnung Project
 
