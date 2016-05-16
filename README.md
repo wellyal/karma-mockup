@@ -9,4 +9,4 @@ A simple example on how to organize and configure karma to run jasmine for integ
  
 ##Informations
   
-To see witch functions you can use for your integrations tests, running this project access [jasmine-jquery.js](https://github.com/velesin/jasmine-jquery).
+To see witch functions you can use for your integrations tests running this project access [jasmine-jquery.js](https://github.com/velesin/jasmine-jquery).
